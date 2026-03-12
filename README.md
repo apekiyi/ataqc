@@ -21,8 +21,8 @@ ATA-QC is a Java-based software application developed for the instantaneous qual
 ## Data Structure for Testing
 For the software to recognize and process files correctly, please maintain the following directory structure in the same folder as the `.jar` file:
 
-* **NFH Data:** Must be placed in `data/NFH/(project_name)/`
-* **Raw SEG-D Data:** Must be placed in `data/SEGD/(project_name)/`
+* **NFH Data:** Must be placed in `data/NFH/(project_name)/(line_name)`
+* **Raw SEG-D Data:** Must be placed in `data/SEGD/(project_name)/(line_name)`
 
 ## License
 This project is licensed under the **MIT License**.
